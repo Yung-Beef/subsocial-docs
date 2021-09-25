@@ -103,7 +103,7 @@ See all of our important links [here](https://subsocial.network/links).
 
 Two snapshots were taken for both Polkadot and Kusama, on April 15th, and May 21st.
 
-Here are the [April 15th DOT snapshot](https://drive.google.com/file/d/1d177ZlVOk1tZ1-ZDJ_Xj2ihIW3SWT1j4/view?usp=sharing) and the [May 21st DOT snapshot](https://drive.google.com/file/d/199h60T9lZapmSOFvIfCaXNAS__DZPszI/view?usp=sharing), and here are the 
+Here are the [April 15th DOT snapshot](https://drive.google.com/file/d/1d177ZlVOk1tZ1-ZDJ_Xj2ihIW3SWT1j4/view?usp=sharing) and the [May 21st DOT snapshot](https://drive.google.com/file/d/199h60T9lZapmSOFvIfCaXNAS__DZPszI/view?usp=sharing), and the 
 [April 15th KSM snapshot](https://drive.google.com/file/d/17F4ZhLtpIaQ1OKCn1r67GwuJzJJngwKC/view?usp=sharing) and the [May 21st KSM snapshot](https://drive.google.com/file/d/1iXz2cRIC3t7k0vlvmV37JJMjszFloYLS/view?usp=sharing).
 
 ### When will eligible participants be able to claim their Subsocial tokens?
