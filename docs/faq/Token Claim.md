@@ -1,7 +1,7 @@
 ---
-id: overview
-title: Overview
-slag: /overview/
+id: TokenClaim
+title: Token Claim
+slag: /tokenclaim/
 ---
 
 ## What accounts are eligible for the token claim?
