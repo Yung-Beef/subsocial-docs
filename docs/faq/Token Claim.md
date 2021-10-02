@@ -70,6 +70,8 @@ Most token balances will be transferred from the betanet to the mainnet,
 and most users will have the same token balance as they did on the betanet.
 
 ## What times will the remaining token claim rounds open?
-- 11:00 UTC on October 7th
-- 00:30 UTC on October 13th
-- 14:00 UTC on October 16th
+- 00:30 UTC on October 7th (Weekday) (Americas - 5:30-10:30pm across the american timezones)
+- 05:00 UTC on October 16rd (Saturday) (Asia/Oceana - noon-6pm from Thailand to NZ)
+- 11:00 UTC on October 23rd (Saturday) (This one is last so if people didn't get into any of the 
+earlier ones they can do this as a last resort - though the time may suck for them
+4am west coast US to midnight in NZ)
