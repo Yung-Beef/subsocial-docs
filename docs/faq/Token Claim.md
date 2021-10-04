@@ -35,11 +35,9 @@ and then you will be able to claim.
 ## Can I claim from my phone?
 No. There are currently no mobile wallets that support Subsocial.
 
-
 ## I have already made a claim. Can I claim again?
-Each eligible account can only claim once, regardless of claim rounds. 
+Each eligible account can only claim once. For example, if an eligible account claimed during round 1, they cannot claim again during rounds 2, 3, or 4.
 If you have multiple eligible accounts, you will be able to claim one time on each eligible account.
-
 
 ## I contributed to a winning crowdloan, why am I not eligible?
 Only contributions made prior to September 24th, and made through Polkadot.js are eligible. 
@@ -64,14 +62,9 @@ and much more. Subsocial thrives on user interaction, which is why the token cla
 You can create your very own [Space](https://app.subsocial.network/spaces/new) on Subsocial, 
 and set up your [profile](https://app.subsocial.network/accounts/edit).
 
-
 ## What will happen to my tokens when the mainnet launches?
 Most token balances will be transferred from the betanet to the mainnet, 
 and most users will have the same token balance as they did on the betanet.
 
 ## What times will the remaining token claim rounds open?
-- 00:30 UTC on October 7th (Weekday) (Americas - 5:30-10:30pm across the american timezones)
-- 05:00 UTC on October 16rd (Saturday) (Asia/Oceana - noon-6pm from Thailand to NZ)
-- 11:00 UTC on October 23rd (Saturday) (This one is last so if people didn't get into any of the 
-earlier ones they can do this as a last resort - though the time may suck for them
-4am west coast US to midnight in NZ)
+Round 2 will begin at 5AM UTC+0 on Thursday, October 7th, 2021. Rounds 3 and 4 will be announced at a later date.
