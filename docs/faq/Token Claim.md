@@ -8,7 +8,7 @@ slag: /tokenclaim/
 Eligibility is based on two snapshots of DOT and KSM holders from April 15th and May 21st, 2021. 
 To be eligible, an account must have held at least 1 DOT during both snapshots, or at least 0.1 KSM during both snapshots. 
 
-We also took a snapshot on September 24th of all accounts that had participated in any of the winning crowdloans up to that date. 
+We also took a snapshot on September 24th of all accounts that had participated in any of the winning crowdloans up to that date (Karura, Moonbeam, Khala, Shiden, Bifrost, KILT, Basilisk, and Calamari). 
 All accounts in this snapshot are also eligible, however, crowdloan contributions must have been made through Polkadot.js. 
 Wallet balances on exchanges and crowdloan contributions through exchanges, or third party websites such as Zenlink or Bifrost’s SALP, do not provide eligibility.
 
