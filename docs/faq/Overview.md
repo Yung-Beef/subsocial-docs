@@ -51,21 +51,21 @@ Install the **Polkadot.js** extension in your browser. This extension allows you
 - On Chrome, install via [Chrome web store](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)
 - On Firefox, install via [Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/)
 
-After the Polkadot extension is installed, create (or import) your account and then you can sign in on the Subsocial web dApp (decentralized application) by visiting this [link](https://app.subsocial.network). To use the dApp, you will need Subsocial tokens, so please visit our [token faucet](https://app.subsocial.network/faucet).
+After the Polkadot extension is installed, create (or import) your account and then you can sign in on the Subsocial web dapp (decentralized application) by visiting this [link](https://app.subsocial.network). To use the dapp, you will need Subsocial tokens, so please visit our [token faucet](https://app.subsocial.network/faucet).
 
 ## Can I use Subsocial on mobile devices?
 
-You can read posts and comments on mobile devices. Currently it is not possible to post, comment, up/downvote, share, or follow from mobile devices. This is because our current web dApp requires the Polkadot.js extension to sign transactions, and modern mobile browsers (like Chrome and Firefox) do not support the extension. We currently have a mobile app in development.
+You can read posts and comments on mobile devices. Currently it is not possible to post, comment, up/downvote, share, or follow from mobile devices. This is because our current web dapp requires the Polkadot.js extension to sign transactions, and modern mobile browsers (like Chrome and Firefox) do not support the extension. We currently have a mobile app in development.
 
 ## I have problems with the Polkadot{.js} extension. What should I do?
 
 ### My account is not displaying correctly
 
-Double check that your extension is connected to the web dApp. If so, [refreshing the page](/docs/faq/overview#i-reloaded-a-page-but-it-did-not-help) helps.
+Double check that your extension is connected to the web dapp. If so, [refreshing the page](/docs/faq/overview#i-reloaded-a-page-but-it-did-not-help) helps.
 
 ### I do not see new accounts from Polkadot.js extension
 
-If you don’t see new Polkadot{.js} accounts on the web dApp in the top right corner, try to sign out, [reload the page](/docs/faq/overview#i-reloaded-a-page-but-it-did-not-help), and sign back in.
+If you don’t see new Polkadot{.js} accounts on the web dapp in the top right corner, try to sign out, [reload the page](/docs/faq/overview#i-reloaded-a-page-but-it-did-not-help), and sign back in.
 
 ### I reloaded a page, but it did not help
 
@@ -73,7 +73,7 @@ We recommend reloading the page with cache clean (Ctrl+F5 in most browsers).
 
 ### My transactions fail
 
-In most cases, reloading a page of the Subsocial web dApp should solve your problem. If you are still having trouble with sending transactions (when following a space, creating a post or a comment, upvoting, etc.), report it to one of our [official chats](/docs/faq/overview#what-are-the-official-social-links) (preferably main chat in English).
+In most cases, reloading a page of the Subsocial web dapp should solve your problem. If you are still having trouble with sending transactions (when following a space, creating a post or a comment, upvoting, etc.), report it to one of our [official chats](/docs/faq/overview#what-are-the-official-social-links) (preferably main chat in English).
 
 ## What are the official social links?
 
