@@ -4,6 +4,9 @@ title: Token Claim FAQ
 slag: /token-claim-faq/
 ---
 
+## Where do I claim?
+You can participate in the token claim [here](https://app.subsocial.network/claim/dotsama).
+
 ## What accounts are eligible for the token claim?
 Eligibility is based on two snapshots of DOT and KSM holders from April 15th and May 21st, 2021. 
 To be eligible, an account must have held at least 1 DOT during both snapshots, or at least 0.1 KSM during both snapshots. 
