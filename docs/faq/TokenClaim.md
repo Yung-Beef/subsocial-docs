@@ -22,11 +22,11 @@ No. Currently, no mobile wallets support Subsocial. This is out of our control.
 However, you can import your account into Polkadot.js on a desktop browser using your seed phrase, 
 and then you will be able to claim.
 
-For Fearless Wallet, go to Settings>Accounts>Info>Export to find your seed phrase.
+For Fearless Wallet, go to Settings > Accounts > Info > Export to find your seed phrase.
 
-For Polkawallet, go to Profile>Manage Account>Export Account>Mnemonic to find your seed phrase.
+For Polkawallet, go to Profile > Manage Account > Export Account > Mnemonic to find your seed phrase.
 
-For Trust Wallet, go to Settings>Wallets>Click the 3 dots on the wallet you want to claim on>Show Recovery Phrase to find your seed phrase.
+For Trust Wallet, go to Settings > Wallets > Click the 3 dots on the wallet you want to claim on > Show Recovery Phrase to find your seed phrase.
 
 ## Can I claim tokens from my Ledger?
 No. Currently, Ledger does not support Subsocial. This is out of our control. 
