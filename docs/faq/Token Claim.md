@@ -52,6 +52,9 @@ If you are having issues connecting, try the below steps.
 - Turn your AdBlock off
 - Reload the page
 
+## Do I need DOT, KSM, or SUB to claim tokens?
+No. Token claim transactions are free for all eligible accounts.
+
 ## What are SUB tokens? What can I do with them?
 SUB tokens are the native token of the Subsocial blockchain, and are used to interact with the network. 
 The Subsocial mainnet has not launched yet, but our betanet is live with a functioning product. 
