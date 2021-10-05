@@ -55,7 +55,12 @@ After the Polkadot extension is installed, create (or import) your account and t
 
 ## Can I use Subsocial on mobile devices?
 
-You can read posts and comments on mobile devices. Currently it is not possible to post, comment, up/downvote, share, or follow from mobile devices. This is because our current web dapp requires the Polkadot.js extension to sign transactions, and modern mobile browsers (like Chrome and Firefox) do not support the extension. We currently have a mobile app in development.
+You can read posts and comments on mobile devices. Currently it is not possible to post, 
+comment, up/downvote, share, or follow from mobile devices. This is because our current web dapp requires the Polkadot.js extension to sign transactions, and modern mobile browsers (like Chrome and Firefox) do not support the extension. We currently have a mobile app in development.
+
+## Is there an existential deposit on Subsocial?
+
+Currently the existential deposit on the betanet is 0.1 SUB. This is subject to change in the future depending on the overall tokenomics of Subsocial.
 
 ## I have problems with the Polkadot{.js} extension. What should I do?
 
