@@ -38,7 +38,8 @@ and then you will be able to claim.
 
 ## Can I claim from my phone?
 Yes, however, since there are currently no mobile wallets that support Subsocial, you will need to use a mobile web browser that supports web extensions, 
-so that you can use Polkadot.js. You need to install the Yandex browser with the letter "Я" on a red background, 
+so that you can use Polkadot.js. At the moment, Yandex is the only mobile browser that supports extensions.
+You need to install the Yandex browser with the letter "Я" on a red background, 
 as **the Polkadot.js extension does not work stably in the classic Yandex browser**.
 Download link https://play.google.com/store/apps/details?id=ru.yandex.searchplugin&hl=ru&gl=US 
 
