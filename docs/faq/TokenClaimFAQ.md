@@ -55,7 +55,9 @@ press the "Install" button and re-confirm with the "Install extension" button.
 Next we need to import the account that we want to claim from, using a JSON-file or the mnemonic seed-phrase. 
 Open the already installed Polkadot.js extension. A new tab with the extension should have opened automatically after installing Polkadot.js. 
 If this did not happen [go to the site](https://app.subsocial.network/claim/dotsama) and click "Sign in" in the upper right corner - the extension will open in a new tab. 
-You will see a greeting on the screen, press "Understood, let me continue". Next we need to import our account (that we want to claim tokens with) 
+You will see a greeting on the screen, press "Understood, let me continue". 
+
+Next we need to import our account (that we want to claim tokens with) 
 into the mobile extension - click on "+" in upper right corner of the screen and select "Restore account from backup JSON file" or 
 "Import account from pre-existing seed" if you are importing an account using a seed-phrase. Next, in the line "backup file" select 
 your JSON file (if you don't have it, you can export it from the wallet you use, such as Mathwallet), in the line "password" enter the 
