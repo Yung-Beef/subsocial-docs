@@ -46,8 +46,8 @@ Download it [here](https://play.google.com/store/apps/details?id=ru.yandex.searc
 ![](https://play-lh.googleusercontent.com/vi8tcaqARzKWlxbPDm9sFnf23LSElbmAyAhdY5cBZsU7ROR6feOJ_To8V6tof3Qvtg=s180-rw) 
 
 Now we need to install the Polkadot.js extension. Open the Yandex browser. Follow [this link](https://polkadot.js.org/extension/) and 
-select Download for Chrome (this will work in the Yandex browser). Then you are transferred to the page of the chrome online store, 
-press the "Install" button and re-confirm with the "Install extension" button. 
+select Download for Chrome (this will work in the Yandex browser). Then you are transferred to the Chrome store, 
+press the "Install" button and re-confirm with the "Install extension" button.
 
 ![](https://i.ibb.co/zsrJFSP/Screenshot-45.png) 
 ![](https://i.ibb.co/bKqmh5Y/Screenshot-46.png)
