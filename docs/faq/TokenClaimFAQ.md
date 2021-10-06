@@ -1,7 +1,6 @@
 ---
-id: TokenClaimFAQ
+id: token-claim
 title: Token Claim FAQ
-slag: /token-claim-faq/
 ---
 
 ## Where do I claim?
