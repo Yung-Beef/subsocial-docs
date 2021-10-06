@@ -67,7 +67,7 @@ and then come up with a new password.
 ![](https://i.ibb.co/nwnH56y/Screenshot-48.png) 
 
 Congratulations, you are ready for the [token claim](https://app.subsocial.network/claim/dotsama)! 
-**Important - in this version of the browser there will be no pop-up windows, transaction confirmations will appear in a new tab**, 
+**In this version of the browser there will be no pop-up windows as transaction confirmations will appear in a new tab**, 
 so you will need to switch a new tab yourself as it does not open automatically.
 
 
