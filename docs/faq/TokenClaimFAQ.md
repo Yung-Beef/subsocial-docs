@@ -62,7 +62,8 @@ your JSON file (if you don't have it, you can export it from the wallet you use,
 current password (not a new password!). If you import your account using a seed-phrase, you will need to enter the seed-phrase, 
 and then come up with a new password.
 
-![](https://i.ibb.co/MZBBxkP/Screenshot-47.png) ![](https://i.ibb.co/nwnH56y/Screenshot-48.png) 
+![](https://i.ibb.co/MZBBxkP/Screenshot-47.png) 
+![](https://i.ibb.co/nwnH56y/Screenshot-48.png) 
 
 Congratulations, you are ready for the [token claim](https://app.subsocial.network/claim/dotsama)! 
 **Important - in this version of the browser there will be no pop-up windows, transaction confirmations will appear in a new tab**, 
