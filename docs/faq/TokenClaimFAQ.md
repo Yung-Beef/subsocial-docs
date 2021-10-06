@@ -41,7 +41,7 @@ Yes, however, since there are currently no mobile wallets that support Subsocial
 so that you can use Polkadot.js. At the moment, Yandex is the only mobile browser that supports extensions.
 You need to install the Yandex browser with the letter "Я" on a red background, 
 as **the Polkadot.js extension does not work stably in the classic Yandex browser**.
-Download link https://play.google.com/store/apps/details?id=ru.yandex.searchplugin&hl=ru&gl=US 
+Download it [here](https://play.google.com/store/apps/details?id=ru.yandex.searchplugin&hl=ru&gl=US).
 
 ![](https://play-lh.googleusercontent.com/vi8tcaqARzKWlxbPDm9sFnf23LSElbmAyAhdY5cBZsU7ROR6feOJ_To8V6tof3Qvtg=s180-rw) 
 
