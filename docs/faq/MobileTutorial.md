@@ -12,6 +12,8 @@ Once you install and open the app, you will be able to either create a new walle
 
 ![](https://cdn.discordapp.com/attachments/893485384154095640/936332002733473812/1.png)
 
+<img src="https://cdn.discordapp.com/attachments/893485384154095640/936332002733473812/1.png" width="100%" height="200" />
+
 If you already have a wallet, you can import it using your seedphrase, the raw private key, or the .json file.
 
 ![](https://cdn.discordapp.com/attachments/893485384154095640/936332003060637766/2.png)
