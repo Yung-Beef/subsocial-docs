@@ -3,9 +3,10 @@ id: roles-and-permissions
 title: Roles and Permissions
 ---
 
-Subsocial natively offers four built-in and dynamic roles. Space owners can specify the role of any Subsocial account in that space, as well as designate which permissions are associated with that role.
+Subsocial natively offers built-in and dynamic roles. Space owners can specify the role of any Subsocial account in that space, 
+as well as designate which permissions are associated with that role.
 
-The following are the four built-in roles: 
+Here are some possible roles: 
 
 | Role        | Description                              |
 | ----------- | ---------------------------------------- |
@@ -13,6 +14,7 @@ The following are the four built-in roles:
 | Everyone    | Any account on the Subsocial blockchain. |
 | Follower    | Any account that follows a given space.  |
 | Space Owner | The current owner(s) of a given space.   |
+| Editor      | Able to post in a given space (non-editors cannot).  |
 
 The roles can assume different permissions as defined by the space owner(s) and/or moderator(s). 
 As with other social media platforms, it is important to define the permissions by considering questions such as:
