@@ -9,6 +9,7 @@ module.exports = {
           "lightpaper/architecture/posts-and-spaces",
           "lightpaper/architecture/content-storage",
           "lightpaper/architecture/identity",
+          "lightpaper/architecture/energy",          
           "lightpaper/architecture/user-owned-social-network",
           "lightpaper/architecture/not-your-keys-not-your-data",
           "lightpaper/architecture/applications",
